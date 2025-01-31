@@ -1,0 +1,13 @@
+<svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Rectangle -->
+  <rect x="10" y="10" width="480" height="180" fill="#e3e3e3" stroke="black" stroke-width="10"/>
+  
+  <!-- Inner Black Box for 'MY' -->
+  <rect x="30" y="40" width="200" height="120" fill="black"/>
+  
+  <!-- Text 'MY' inside Black Box -->
+  <text x="50" y="120" font-family="Arial, sans-serif" font-weight="bold" font-size="70" fill="white">MY</text>
+  
+  <!-- Text 'STORE' next to the Box -->
+  <text x="250" y="120" font-family="Arial, sans-serif" font-weight="bold" font-size="70" fill="black">STORE</text>
+</svg>
